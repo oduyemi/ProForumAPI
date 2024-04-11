@@ -144,5 +144,3 @@ This project is licensed under the MIT License. See the [LICENSE](link-to-licens
 For any inquiries or support, please contact [hello@yemi.dev](mailto:hello@yemi.dev).
 
 ---
-
-This concludes the documentation for ProForumAPI. If you have any questions or need further assistance, feel free to reach out.
